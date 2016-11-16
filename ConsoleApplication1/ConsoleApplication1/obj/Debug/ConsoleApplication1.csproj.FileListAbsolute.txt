@@ -1,0 +1,2 @@
+c:\users\dell\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\DELL\Desktop\Nguyễn Nam Vang\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
